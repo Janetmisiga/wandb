@@ -1,0 +1,18 @@
+{"time":"2025-06-21T17:26:13.7937128+03:00","level":"INFO","msg":"stream: starting","core version":"0.20.1","symlink path":"C:\\Users\\Janet\\wandb\\run-20250621_172610-0op5oi24\\logs\\debug-core.log"}
+{"time":"2025-06-21T17:26:14.4105063+03:00","level":"INFO","msg":"stream: created new stream","id":"0op5oi24"}
+{"time":"2025-06-21T17:26:14.4105063+03:00","level":"INFO","msg":"stream: started","id":"0op5oi24"}
+{"time":"2025-06-21T17:26:14.4161696+03:00","level":"INFO","msg":"writer: Do: started","stream_id":"0op5oi24"}
+{"time":"2025-06-21T17:26:14.4173054+03:00","level":"INFO","msg":"handler: started","stream_id":"0op5oi24"}
+{"time":"2025-06-21T17:26:14.4182729+03:00","level":"INFO","msg":"sender: started","stream_id":"0op5oi24"}
+{"time":"2025-06-21T17:26:14.9336631+03:00","level":"INFO","msg":"Starting system monitor"}
+{"time":"2025-06-21T17:26:14.9567221+03:00","level":"ERROR","msg":"git repo not found","error":"repository does not exist"}
+{"time":"2025-06-21T17:26:25.1575509+03:00","level":"WARN","msg":"sender: sendUseArtifact: job builder disabled, skipping"}
+{"time":"2025-06-21T17:28:18.0704079+03:00","level":"INFO","msg":"Stopping system monitor"}
+{"time":"2025-06-21T17:28:18.0704079+03:00","level":"INFO","msg":"Stopped system monitor"}
+{"time":"2025-06-21T17:28:19.0735763+03:00","level":"INFO","msg":"handler: operation stats","stats":{"operations":[{"desc":"uploading artifact source-diabetes_decision_tree-diabetes.ipynb","runtime_seconds":1.0489419},{"desc":"uploading config.yaml","runtime_seconds":0.3261432,"progress":"440B/440B"}],"total_operations":2}}
+{"time":"2025-06-21T17:28:21.8948831+03:00","level":"INFO","msg":"fileTransfer: Close: file transfer manager closed"}
+{"time":"2025-06-21T17:28:22.8419482+03:00","level":"INFO","msg":"stream: closing","id":"0op5oi24"}
+{"time":"2025-06-21T17:28:22.8429343+03:00","level":"INFO","msg":"handler: closed","stream_id":"0op5oi24"}
+{"time":"2025-06-21T17:28:22.8429343+03:00","level":"INFO","msg":"writer: Close: closed","stream_id":"0op5oi24"}
+{"time":"2025-06-21T17:28:22.8429343+03:00","level":"INFO","msg":"sender: closed","stream_id":"0op5oi24"}
+{"time":"2025-06-21T17:28:22.8429343+03:00","level":"INFO","msg":"stream: closed","id":"0op5oi24"}

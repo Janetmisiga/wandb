@@ -1,0 +1,16 @@
+{"time":"2025-06-22T15:27:54.4066707+03:00","level":"INFO","msg":"stream: starting","core version":"0.20.1","symlink path":"C:\\Users\\Janet\\wandb\\run-20250622_152754-rwnboy95\\logs\\debug-core.log"}
+{"time":"2025-06-22T15:27:56.4636679+03:00","level":"INFO","msg":"stream: created new stream","id":"rwnboy95"}
+{"time":"2025-06-22T15:27:56.4636679+03:00","level":"INFO","msg":"stream: started","id":"rwnboy95"}
+{"time":"2025-06-22T15:27:56.4847885+03:00","level":"INFO","msg":"handler: started","stream_id":"rwnboy95"}
+{"time":"2025-06-22T15:27:56.4853183+03:00","level":"INFO","msg":"writer: Do: started","stream_id":"rwnboy95"}
+{"time":"2025-06-22T15:27:56.486413+03:00","level":"INFO","msg":"sender: started","stream_id":"rwnboy95"}
+{"time":"2025-06-22T15:27:57.3817847+03:00","level":"INFO","msg":"Starting system monitor"}
+{"time":"2025-06-22T15:28:01.823715+03:00","level":"INFO","msg":"Stopping system monitor"}
+{"time":"2025-06-22T15:28:01.823715+03:00","level":"INFO","msg":"Stopped system monitor"}
+{"time":"2025-06-22T15:28:02.6869246+03:00","level":"INFO","msg":"handler: operation stats","stats":{"operations":[{"desc":"uploading wandb-summary.json","runtime_seconds":0.3471724,"progress":"24B/24B"},{"desc":"uploading output.log","runtime_seconds":0.3471724,"progress":"268B/268B"}],"total_operations":2}}
+{"time":"2025-06-22T15:28:03.1845967+03:00","level":"INFO","msg":"fileTransfer: Close: file transfer manager closed"}
+{"time":"2025-06-22T15:28:07.749036+03:00","level":"INFO","msg":"stream: closing","id":"rwnboy95"}
+{"time":"2025-06-22T15:28:07.749036+03:00","level":"INFO","msg":"handler: closed","stream_id":"rwnboy95"}
+{"time":"2025-06-22T15:28:07.749036+03:00","level":"INFO","msg":"writer: Close: closed","stream_id":"rwnboy95"}
+{"time":"2025-06-22T15:28:07.749036+03:00","level":"INFO","msg":"sender: closed","stream_id":"rwnboy95"}
+{"time":"2025-06-22T15:28:07.749036+03:00","level":"INFO","msg":"stream: closed","id":"rwnboy95"}

@@ -1,0 +1,31 @@
+{
+  "os":  "Windows-10-10.0.19045-SP0",
+  "python":  "CPython 3.12.7",
+  "startedAt":  "2025-06-22T08:38:05.804458Z",
+  "args":  [
+    "tests/",
+    "-v"
+  ],
+  "program":  "C:\\ProgramData\\anaconda3\\Scripts\\pytest-script.py",
+  "codePath":  "..\\..\\ProgramData\\anaconda3\\Scripts\\pytest-script.py",
+  "email":  "2409463@students.kcau.ac.ke",
+  "root":  "C:\\Users\\Janet",
+  "host":  "DESKTOP-G3ROKU4",
+  "executable":  "C:\\ProgramData\\anaconda3\\python.exe",
+  "codePathLocal":  "..\\..\\ProgramData\\anaconda3\\Scripts\\pytest-script.py",
+  "cpu_count":  2,
+  "cpu_count_logical":  2,
+  "disk":  {
+    "/":  {
+      "total":  "255502753792",
+      "used":  "83136131072"
+    }
+  },
+  "memory":  {
+    "total":  "4112760832"
+  },
+  "cpu":  {
+    "count":  2,
+    "countLogical":  2
+  }
+}

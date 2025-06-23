@@ -1,0 +1,19 @@
+{"time":"2025-06-21T15:10:53.9003349+03:00","level":"INFO","msg":"stream: starting","core version":"0.20.1","symlink path":"C:\\Users\\Janet\\wandb\\run-20250621_151050-eeu0lrk8\\logs\\debug-core.log"}
+{"time":"2025-06-21T15:10:56.906726+03:00","level":"INFO","msg":"stream: created new stream","id":"eeu0lrk8"}
+{"time":"2025-06-21T15:10:56.9119863+03:00","level":"INFO","msg":"stream: started","id":"eeu0lrk8"}
+{"time":"2025-06-21T15:10:56.9140323+03:00","level":"INFO","msg":"writer: Do: started","stream_id":"eeu0lrk8"}
+{"time":"2025-06-21T15:10:56.9140323+03:00","level":"INFO","msg":"handler: started","stream_id":"eeu0lrk8"}
+{"time":"2025-06-21T15:10:56.9140323+03:00","level":"INFO","msg":"sender: started","stream_id":"eeu0lrk8"}
+{"time":"2025-06-21T15:10:58.2886035+03:00","level":"INFO","msg":"Starting system monitor"}
+{"time":"2025-06-21T15:13:43.1540569+03:00","level":"INFO","msg":"Pausing system monitor"}
+{"time":"2025-06-21T15:13:44.113948+03:00","level":"INFO","msg":"Resuming system monitor"}
+{"time":"2025-06-21T15:17:47.9913339+03:00","level":"INFO","msg":"Pausing system monitor"}
+{"time":"2025-06-21T15:17:48.066708+03:00","level":"INFO","msg":"Stopping system monitor"}
+{"time":"2025-06-21T15:17:48.066708+03:00","level":"INFO","msg":"Stopped system monitor"}
+{"time":"2025-06-21T15:17:48.909114+03:00","level":"INFO","msg":"handler: operation stats","stats":{}}
+{"time":"2025-06-21T15:17:50.2582304+03:00","level":"INFO","msg":"fileTransfer: Close: file transfer manager closed"}
+{"time":"2025-06-21T15:17:50.9318456+03:00","level":"INFO","msg":"stream: closing","id":"eeu0lrk8"}
+{"time":"2025-06-21T15:17:50.943726+03:00","level":"INFO","msg":"writer: Close: closed","stream_id":"eeu0lrk8"}
+{"time":"2025-06-21T15:17:50.943726+03:00","level":"INFO","msg":"sender: closed","stream_id":"eeu0lrk8"}
+{"time":"2025-06-21T15:17:51.3662926+03:00","level":"INFO","msg":"handler: closed","stream_id":"eeu0lrk8"}
+{"time":"2025-06-21T15:17:51.3662926+03:00","level":"INFO","msg":"stream: closed","id":"eeu0lrk8"}

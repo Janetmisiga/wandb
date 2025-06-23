@@ -1,0 +1,17 @@
+{"time":"2025-06-22T11:36:35.6405708+03:00","level":"INFO","msg":"stream: starting","core version":"0.20.1","symlink path":"C:\\Users\\Janet\\wandb\\run-20250622_113635-88lfpo1d\\logs\\debug-core.log"}
+{"time":"2025-06-22T11:36:36.7850957+03:00","level":"INFO","msg":"stream: created new stream","id":"88lfpo1d"}
+{"time":"2025-06-22T11:36:36.7872416+03:00","level":"INFO","msg":"stream: started","id":"88lfpo1d"}
+{"time":"2025-06-22T11:36:36.7872416+03:00","level":"INFO","msg":"sender: started","stream_id":"88lfpo1d"}
+{"time":"2025-06-22T11:36:36.7872416+03:00","level":"INFO","msg":"writer: Do: started","stream_id":"88lfpo1d"}
+{"time":"2025-06-22T11:36:36.7872416+03:00","level":"INFO","msg":"handler: started","stream_id":"88lfpo1d"}
+{"time":"2025-06-22T11:36:37.2499599+03:00","level":"INFO","msg":"Starting system monitor"}
+{"time":"2025-06-22T11:36:40.3908113+03:00","level":"WARN","msg":"sender: sendUseArtifact: job builder disabled, skipping"}
+{"time":"2025-06-22T11:36:41.6744884+03:00","level":"INFO","msg":"Stopping system monitor"}
+{"time":"2025-06-22T11:36:41.6744884+03:00","level":"INFO","msg":"Stopped system monitor"}
+{"time":"2025-06-22T11:36:42.7348109+03:00","level":"INFO","msg":"handler: operation stats","stats":{"operations":[{"desc":"uploading output.log","runtime_seconds":0.6863297,"progress":"34B/34B"},{"desc":"uploading config.yaml","runtime_seconds":0.346209,"progress":"303B/303B"}],"total_operations":2}}
+{"time":"2025-06-22T11:36:43.4195882+03:00","level":"INFO","msg":"fileTransfer: Close: file transfer manager closed"}
+{"time":"2025-06-22T11:36:43.8775059+03:00","level":"INFO","msg":"stream: closing","id":"88lfpo1d"}
+{"time":"2025-06-22T11:36:43.8785803+03:00","level":"INFO","msg":"handler: closed","stream_id":"88lfpo1d"}
+{"time":"2025-06-22T11:36:43.8785803+03:00","level":"INFO","msg":"writer: Close: closed","stream_id":"88lfpo1d"}
+{"time":"2025-06-22T11:36:43.8785803+03:00","level":"INFO","msg":"sender: closed","stream_id":"88lfpo1d"}
+{"time":"2025-06-22T11:36:43.8796443+03:00","level":"INFO","msg":"stream: closed","id":"88lfpo1d"}

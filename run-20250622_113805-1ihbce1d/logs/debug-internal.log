@@ -1,0 +1,17 @@
+{"time":"2025-06-22T11:38:05.8524692+03:00","level":"INFO","msg":"stream: starting","core version":"0.20.1","symlink path":"C:\\Users\\Janet\\wandb\\run-20250622_113805-1ihbce1d\\logs\\debug-core.log"}
+{"time":"2025-06-22T11:38:10.19169+03:00","level":"INFO","msg":"stream: created new stream","id":"1ihbce1d"}
+{"time":"2025-06-22T11:38:10.1955302+03:00","level":"INFO","msg":"stream: started","id":"1ihbce1d"}
+{"time":"2025-06-22T11:38:10.1936911+03:00","level":"INFO","msg":"handler: started","stream_id":"1ihbce1d"}
+{"time":"2025-06-22T11:38:10.197095+03:00","level":"INFO","msg":"sender: started","stream_id":"1ihbce1d"}
+{"time":"2025-06-22T11:38:10.1984811+03:00","level":"INFO","msg":"writer: Do: started","stream_id":"1ihbce1d"}
+{"time":"2025-06-22T11:38:10.750159+03:00","level":"INFO","msg":"Starting system monitor"}
+{"time":"2025-06-22T11:38:18.6874916+03:00","level":"WARN","msg":"sender: sendUseArtifact: job builder disabled, skipping"}
+{"time":"2025-06-22T11:38:19.9734541+03:00","level":"INFO","msg":"Stopping system monitor"}
+{"time":"2025-06-22T11:38:19.9740402+03:00","level":"INFO","msg":"Stopped system monitor"}
+{"time":"2025-06-22T11:38:20.9949546+03:00","level":"INFO","msg":"handler: operation stats","stats":{"operations":[{"desc":"uploading output.log","runtime_seconds":0.7210734,"progress":"34B/34B"},{"desc":"uploading config.yaml","runtime_seconds":0.4521625,"progress":"303B/303B"}],"total_operations":2}}
+{"time":"2025-06-22T11:38:21.5859325+03:00","level":"INFO","msg":"fileTransfer: Close: file transfer manager closed"}
+{"time":"2025-06-22T11:38:21.9731787+03:00","level":"INFO","msg":"stream: closing","id":"1ihbce1d"}
+{"time":"2025-06-22T11:38:21.9731787+03:00","level":"INFO","msg":"handler: closed","stream_id":"1ihbce1d"}
+{"time":"2025-06-22T11:38:21.9731787+03:00","level":"INFO","msg":"writer: Close: closed","stream_id":"1ihbce1d"}
+{"time":"2025-06-22T11:38:21.976174+03:00","level":"INFO","msg":"sender: closed","stream_id":"1ihbce1d"}
+{"time":"2025-06-22T11:38:21.976174+03:00","level":"INFO","msg":"stream: closed","id":"1ihbce1d"}

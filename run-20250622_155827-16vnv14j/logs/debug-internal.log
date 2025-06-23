@@ -1,0 +1,16 @@
+{"time":"2025-06-22T15:58:28.88635+03:00","level":"INFO","msg":"stream: starting","core version":"0.20.1","symlink path":"C:\\Users\\Janet\\wandb\\run-20250622_155827-16vnv14j\\logs\\debug-core.log"}
+{"time":"2025-06-22T15:58:30.1783998+03:00","level":"INFO","msg":"stream: created new stream","id":"16vnv14j"}
+{"time":"2025-06-22T15:58:30.1783998+03:00","level":"INFO","msg":"stream: started","id":"16vnv14j"}
+{"time":"2025-06-22T15:58:30.1904135+03:00","level":"INFO","msg":"writer: Do: started","stream_id":"16vnv14j"}
+{"time":"2025-06-22T15:58:30.1939257+03:00","level":"INFO","msg":"handler: started","stream_id":"16vnv14j"}
+{"time":"2025-06-22T15:58:30.196724+03:00","level":"INFO","msg":"sender: started","stream_id":"16vnv14j"}
+{"time":"2025-06-22T15:58:30.8126327+03:00","level":"INFO","msg":"Starting system monitor"}
+{"time":"2025-06-22T15:58:41.4714688+03:00","level":"INFO","msg":"Stopping system monitor"}
+{"time":"2025-06-22T15:58:41.4714688+03:00","level":"INFO","msg":"Stopped system monitor"}
+{"time":"2025-06-22T15:58:42.376318+03:00","level":"INFO","msg":"handler: operation stats","stats":{"operations":[{"desc":"uploading output.log","runtime_seconds":0.5011495,"progress":"2.5KB/2.5KB"},{"desc":"uploading config.yaml","runtime_seconds":0.1488474,"progress":"590B/590B"}],"total_operations":2}}
+{"time":"2025-06-22T15:58:43.1996166+03:00","level":"INFO","msg":"fileTransfer: Close: file transfer manager closed"}
+{"time":"2025-06-22T15:58:43.9576565+03:00","level":"INFO","msg":"stream: closing","id":"16vnv14j"}
+{"time":"2025-06-22T15:58:43.9576565+03:00","level":"INFO","msg":"handler: closed","stream_id":"16vnv14j"}
+{"time":"2025-06-22T15:58:43.9576565+03:00","level":"INFO","msg":"writer: Close: closed","stream_id":"16vnv14j"}
+{"time":"2025-06-22T15:58:43.9576565+03:00","level":"INFO","msg":"sender: closed","stream_id":"16vnv14j"}
+{"time":"2025-06-22T15:58:43.9576565+03:00","level":"INFO","msg":"stream: closed","id":"16vnv14j"}

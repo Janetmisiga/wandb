@@ -1,0 +1,16 @@
+{"time":"2025-06-22T15:28:12.6625207+03:00","level":"INFO","msg":"stream: starting","core version":"0.20.1","symlink path":"C:\\Users\\Janet\\wandb\\run-20250622_152812-dfokqilz\\logs\\debug-core.log"}
+{"time":"2025-06-22T15:28:13.379227+03:00","level":"INFO","msg":"stream: created new stream","id":"dfokqilz"}
+{"time":"2025-06-22T15:28:13.379227+03:00","level":"INFO","msg":"stream: started","id":"dfokqilz"}
+{"time":"2025-06-22T15:28:13.4103821+03:00","level":"INFO","msg":"handler: started","stream_id":"dfokqilz"}
+{"time":"2025-06-22T15:28:13.4103821+03:00","level":"INFO","msg":"writer: Do: started","stream_id":"dfokqilz"}
+{"time":"2025-06-22T15:28:13.4122469+03:00","level":"INFO","msg":"sender: started","stream_id":"dfokqilz"}
+{"time":"2025-06-22T15:28:14.3473312+03:00","level":"INFO","msg":"Starting system monitor"}
+{"time":"2025-06-22T15:28:22.8719917+03:00","level":"INFO","msg":"Stopping system monitor"}
+{"time":"2025-06-22T15:28:22.8730723+03:00","level":"INFO","msg":"Stopped system monitor"}
+{"time":"2025-06-22T15:28:23.6738346+03:00","level":"INFO","msg":"handler: operation stats","stats":{"operations":[{"desc":"uploading requirements.txt","runtime_seconds":0.4575852,"progress":"7.2KB/7.2KB"},{"desc":"updating run metadata","runtime_seconds":0.4479191}],"total_operations":2}}
+{"time":"2025-06-22T15:28:24.494553+03:00","level":"INFO","msg":"fileTransfer: Close: file transfer manager closed"}
+{"time":"2025-06-22T15:28:25.2855702+03:00","level":"INFO","msg":"stream: closing","id":"dfokqilz"}
+{"time":"2025-06-22T15:28:25.2855702+03:00","level":"INFO","msg":"handler: closed","stream_id":"dfokqilz"}
+{"time":"2025-06-22T15:28:25.2855702+03:00","level":"INFO","msg":"writer: Close: closed","stream_id":"dfokqilz"}
+{"time":"2025-06-22T15:28:25.2913001+03:00","level":"INFO","msg":"sender: closed","stream_id":"dfokqilz"}
+{"time":"2025-06-22T15:28:25.2913001+03:00","level":"INFO","msg":"stream: closed","id":"dfokqilz"}

@@ -1,0 +1,5 @@
+Traceback (most recent call last):
+  File "C:\Users\Janet\AppData\Local\Temp\ipykernel_14040\3479861871.py", line 60, in train
+    ("classifier",DecisionTreeClassifier())
+                  ^^^^^^^^^^^^^^^^^^^^^^
+NameError: name 'DecisionTreeClassifier' is not defined

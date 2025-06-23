@@ -1,0 +1,18 @@
+{"time":"2025-06-22T11:43:27.4725292+03:00","level":"INFO","msg":"stream: starting","core version":"0.20.1","symlink path":"C:\\Users\\Janet\\wandb\\run-20250622_114327-y0674xrh\\logs\\debug-core.log"}
+{"time":"2025-06-22T11:43:28.4627567+03:00","level":"INFO","msg":"stream: created new stream","id":"y0674xrh"}
+{"time":"2025-06-22T11:43:28.4627567+03:00","level":"INFO","msg":"stream: started","id":"y0674xrh"}
+{"time":"2025-06-22T11:43:28.4799441+03:00","level":"INFO","msg":"writer: Do: started","stream_id":"y0674xrh"}
+{"time":"2025-06-22T11:43:28.4799441+03:00","level":"INFO","msg":"handler: started","stream_id":"y0674xrh"}
+{"time":"2025-06-22T11:43:28.4799441+03:00","level":"INFO","msg":"sender: started","stream_id":"y0674xrh"}
+{"time":"2025-06-22T11:43:28.8800006+03:00","level":"INFO","msg":"Starting system monitor"}
+{"time":"2025-06-22T11:43:35.8536248+03:00","level":"WARN","msg":"sender: sendUseArtifact: job builder disabled, skipping"}
+{"time":"2025-06-22T11:54:17.6682514+03:00","level":"INFO","msg":"Pausing system monitor"}
+{"time":"2025-06-22T11:54:21.7303003+03:00","level":"INFO","msg":"Stopping system monitor"}
+{"time":"2025-06-22T11:54:21.7303003+03:00","level":"INFO","msg":"Stopped system monitor"}
+{"time":"2025-06-22T11:54:22.754648+03:00","level":"INFO","msg":"handler: operation stats","stats":{"operations":[{"desc":"updating run metadata","runtime_seconds":2.9261624}],"total_operations":1}}
+{"time":"2025-06-22T11:54:24.9804019+03:00","level":"INFO","msg":"fileTransfer: Close: file transfer manager closed"}
+{"time":"2025-06-22T11:54:25.6582162+03:00","level":"INFO","msg":"stream: closing","id":"y0674xrh"}
+{"time":"2025-06-22T11:54:25.6582162+03:00","level":"INFO","msg":"handler: closed","stream_id":"y0674xrh"}
+{"time":"2025-06-22T11:54:25.6582162+03:00","level":"INFO","msg":"writer: Close: closed","stream_id":"y0674xrh"}
+{"time":"2025-06-22T11:54:25.6592087+03:00","level":"INFO","msg":"sender: closed","stream_id":"y0674xrh"}
+{"time":"2025-06-22T11:54:25.6592087+03:00","level":"INFO","msg":"stream: closed","id":"y0674xrh"}

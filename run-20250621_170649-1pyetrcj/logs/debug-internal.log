@@ -1,0 +1,19 @@
+{"time":"2025-06-21T17:06:50.4182047+03:00","level":"INFO","msg":"stream: starting","core version":"0.20.1","symlink path":"C:\\Users\\Janet\\wandb\\run-20250621_170649-1pyetrcj\\logs\\debug-core.log"}
+{"time":"2025-06-21T17:06:51.3136304+03:00","level":"INFO","msg":"stream: created new stream","id":"1pyetrcj"}
+{"time":"2025-06-21T17:06:51.3139586+03:00","level":"INFO","msg":"handler: started","stream_id":"1pyetrcj"}
+{"time":"2025-06-21T17:06:51.3139586+03:00","level":"INFO","msg":"writer: Do: started","stream_id":"1pyetrcj"}
+{"time":"2025-06-21T17:06:51.3165274+03:00","level":"INFO","msg":"sender: started","stream_id":"1pyetrcj"}
+{"time":"2025-06-21T17:06:51.3170458+03:00","level":"INFO","msg":"stream: started","id":"1pyetrcj"}
+{"time":"2025-06-21T17:06:51.7762122+03:00","level":"INFO","msg":"Starting system monitor"}
+{"time":"2025-06-21T17:06:51.9514867+03:00","level":"ERROR","msg":"git repo not found","error":"repository does not exist"}
+{"time":"2025-06-21T17:07:06.8570756+03:00","level":"WARN","msg":"sender: sendUseArtifact: job builder disabled, skipping"}
+{"time":"2025-06-21T17:12:16.5841611+03:00","level":"INFO","msg":"Pausing system monitor"}
+{"time":"2025-06-21T17:12:17.9492463+03:00","level":"INFO","msg":"Stopping system monitor"}
+{"time":"2025-06-21T17:12:17.9492463+03:00","level":"INFO","msg":"Stopped system monitor"}
+{"time":"2025-06-21T17:12:18.9677752+03:00","level":"INFO","msg":"handler: operation stats","stats":{"operations":[{"desc":"uploading artifact source-diabetes_decision_tree-diabetes.ipynb","runtime_seconds":2.3941998,"subtasks":[{"desc":"diabetes.ipynb","runtime_seconds":0.5452584,"progress":"25.7KB/25.7KB"}]},{"desc":"uploading artifact source-diabetes_decision_tree-diabetes.ipynb","runtime_seconds":1.0067221},{"desc":"uploading output.log","runtime_seconds":0.5530115},{"desc":"uploading wandb-summary.json","runtime_seconds":0.5530115,"progress":"26B/26B"},{"desc":"uploading config.yaml","runtime_seconds":0.2533538,"progress":"440B/440B"}],"total_operations":5}}
+{"time":"2025-06-21T17:12:25.4687426+03:00","level":"INFO","msg":"fileTransfer: Close: file transfer manager closed"}
+{"time":"2025-06-21T17:12:26.3814123+03:00","level":"INFO","msg":"stream: closing","id":"1pyetrcj"}
+{"time":"2025-06-21T17:12:26.4065294+03:00","level":"INFO","msg":"writer: Close: closed","stream_id":"1pyetrcj"}
+{"time":"2025-06-21T17:12:26.4065294+03:00","level":"INFO","msg":"sender: closed","stream_id":"1pyetrcj"}
+{"time":"2025-06-21T17:12:26.4521142+03:00","level":"INFO","msg":"handler: closed","stream_id":"1pyetrcj"}
+{"time":"2025-06-21T17:12:26.4521142+03:00","level":"INFO","msg":"stream: closed","id":"1pyetrcj"}

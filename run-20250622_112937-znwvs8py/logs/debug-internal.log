@@ -1,0 +1,17 @@
+{"time":"2025-06-22T11:29:38.0952171+03:00","level":"INFO","msg":"stream: starting","core version":"0.20.1","symlink path":"C:\\Users\\Janet\\wandb\\run-20250622_112937-znwvs8py\\logs\\debug-core.log"}
+{"time":"2025-06-22T11:29:40.5494635+03:00","level":"INFO","msg":"stream: created new stream","id":"znwvs8py"}
+{"time":"2025-06-22T11:29:40.5494635+03:00","level":"INFO","msg":"stream: started","id":"znwvs8py"}
+{"time":"2025-06-22T11:29:40.5628783+03:00","level":"INFO","msg":"writer: Do: started","stream_id":"znwvs8py"}
+{"time":"2025-06-22T11:29:40.5628783+03:00","level":"INFO","msg":"handler: started","stream_id":"znwvs8py"}
+{"time":"2025-06-22T11:29:40.5655621+03:00","level":"INFO","msg":"sender: started","stream_id":"znwvs8py"}
+{"time":"2025-06-22T11:29:41.1050832+03:00","level":"INFO","msg":"Starting system monitor"}
+{"time":"2025-06-22T11:29:46.4720686+03:00","level":"WARN","msg":"sender: sendUseArtifact: job builder disabled, skipping"}
+{"time":"2025-06-22T11:29:48.3193912+03:00","level":"INFO","msg":"Stopping system monitor"}
+{"time":"2025-06-22T11:29:48.3193912+03:00","level":"INFO","msg":"Stopped system monitor"}
+{"time":"2025-06-22T11:29:49.3269397+03:00","level":"INFO","msg":"handler: operation stats","stats":{"operations":[{"desc":"updating run metadata","runtime_seconds":6.3015251}],"total_operations":1}}
+{"time":"2025-06-22T11:29:53.4938756+03:00","level":"INFO","msg":"fileTransfer: Close: file transfer manager closed"}
+{"time":"2025-06-22T11:29:53.8710022+03:00","level":"INFO","msg":"stream: closing","id":"znwvs8py"}
+{"time":"2025-06-22T11:29:53.8710022+03:00","level":"INFO","msg":"handler: closed","stream_id":"znwvs8py"}
+{"time":"2025-06-22T11:29:53.8710022+03:00","level":"INFO","msg":"writer: Close: closed","stream_id":"znwvs8py"}
+{"time":"2025-06-22T11:29:53.8808625+03:00","level":"INFO","msg":"sender: closed","stream_id":"znwvs8py"}
+{"time":"2025-06-22T11:29:53.8808625+03:00","level":"INFO","msg":"stream: closed","id":"znwvs8py"}

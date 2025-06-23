@@ -1,0 +1,16 @@
+{"time":"2025-06-22T15:56:37.9191216+03:00","level":"INFO","msg":"stream: starting","core version":"0.20.1","symlink path":"C:\\Users\\Janet\\wandb\\run-20250622_155637-g7x748bp\\logs\\debug-core.log"}
+{"time":"2025-06-22T15:56:38.9084201+03:00","level":"INFO","msg":"stream: created new stream","id":"g7x748bp"}
+{"time":"2025-06-22T15:56:38.9084201+03:00","level":"INFO","msg":"stream: started","id":"g7x748bp"}
+{"time":"2025-06-22T15:56:39.0420794+03:00","level":"INFO","msg":"handler: started","stream_id":"g7x748bp"}
+{"time":"2025-06-22T15:56:39.0420794+03:00","level":"INFO","msg":"writer: Do: started","stream_id":"g7x748bp"}
+{"time":"2025-06-22T15:56:39.0979149+03:00","level":"INFO","msg":"sender: started","stream_id":"g7x748bp"}
+{"time":"2025-06-22T15:56:39.8740882+03:00","level":"INFO","msg":"Starting system monitor"}
+{"time":"2025-06-22T15:56:51.614623+03:00","level":"INFO","msg":"Stopping system monitor"}
+{"time":"2025-06-22T15:56:51.614623+03:00","level":"INFO","msg":"Stopped system monitor"}
+{"time":"2025-06-22T15:56:52.6617151+03:00","level":"INFO","msg":"handler: operation stats","stats":{"operations":[{"desc":"uploading output.log","runtime_seconds":0.313572,"progress":"2.5KB/2.5KB"},{"desc":"uploading wandb-summary.json","runtime_seconds":0.313572,"progress":"121B/121B"},{"desc":"uploading config.yaml","runtime_seconds":0.1585669,"progress":"588B/588B"}],"total_operations":3}}
+{"time":"2025-06-22T15:56:52.9973364+03:00","level":"INFO","msg":"fileTransfer: Close: file transfer manager closed"}
+{"time":"2025-06-22T15:56:54.7693929+03:00","level":"INFO","msg":"stream: closing","id":"g7x748bp"}
+{"time":"2025-06-22T15:56:54.7693929+03:00","level":"INFO","msg":"handler: closed","stream_id":"g7x748bp"}
+{"time":"2025-06-22T15:56:54.7693929+03:00","level":"INFO","msg":"writer: Close: closed","stream_id":"g7x748bp"}
+{"time":"2025-06-22T15:56:54.7865592+03:00","level":"INFO","msg":"sender: closed","stream_id":"g7x748bp"}
+{"time":"2025-06-22T15:56:54.7865592+03:00","level":"INFO","msg":"stream: closed","id":"g7x748bp"}

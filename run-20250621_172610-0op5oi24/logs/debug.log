@@ -1,0 +1,32 @@
+2025-06-21 17:26:10,073 INFO    MainThread:14040 [wandb_init.py:setup_run_log_directory():703] Logging user logs to C:\Users\Janet\wandb\run-20250621_172610-0op5oi24\logs\debug.log
+2025-06-21 17:26:10,074 INFO    MainThread:14040 [wandb_init.py:setup_run_log_directory():704] Logging internal logs to C:\Users\Janet\wandb\run-20250621_172610-0op5oi24\logs\debug-internal.log
+2025-06-21 17:26:10,075 INFO    MainThread:14040 [wandb_init.py:monkeypatch_ipython():622] configuring jupyter hooks <wandb.sdk.wandb_init._WandbInit object at 0x0000029616033E00>
+2025-06-21 17:26:10,077 INFO    MainThread:14040 [wandb_init.py:init():831] calling init triggers
+2025-06-21 17:26:10,077 INFO    MainThread:14040 [wandb_init.py:init():836] wandb.init called with sweep_config: {}
+config: {'_wandb': {'code_path': 'code/diabetes.ipynb'}}
+2025-06-21 17:26:13,049 INFO    MainThread:14040 [wandb_init.py:init():872] starting backend
+2025-06-21 17:26:13,049 INFO    MainThread:14040 [wandb_init.py:init():875] sending inform_init request
+2025-06-21 17:26:13,313 INFO    MainThread:14040 [wandb_init.py:init():883] backend started and connected
+2025-06-21 17:26:13,550 INFO    MainThread:14040 [wandb_run.py:_label_probe_notebook():1299] probe notebook
+2025-06-21 17:26:13,550 INFO    MainThread:14040 [wandb_run.py:_label_probe_notebook():1309] Unable to probe notebook: 'charmap' codec can't decode byte 0x81 in position 16520: character maps to <undefined>
+2025-06-21 17:26:13,550 INFO    MainThread:14040 [wandb_init.py:init():956] updated telemetry
+2025-06-21 17:26:13,550 INFO    MainThread:14040 [wandb_init.py:init():980] communicating run to backend with 90.0 second timeout
+2025-06-21 17:26:14,911 INFO    MainThread:14040 [wandb_init.py:init():1032] starting run threads in backend
+2025-06-21 17:26:20,516 INFO    MainThread:14040 [wandb_run.py:_console_start():2453] atexit reg
+2025-06-21 17:26:20,516 INFO    MainThread:14040 [wandb_run.py:_redirect():2301] redirect: wrap_raw
+2025-06-21 17:26:20,516 INFO    MainThread:14040 [wandb_run.py:_redirect():2370] Wrapping output streams.
+2025-06-21 17:26:20,516 INFO    MainThread:14040 [wandb_run.py:_redirect():2393] Redirects installed.
+2025-06-21 17:26:20,516 INFO    MainThread:14040 [wandb_init.py:init():1078] run started, returning control to user process
+2025-06-21 17:28:17,107 INFO    MainThread:14040 [wandb_run.py:_finish():2219] finishing run 2107301-kca-university/diabetes_decision_tree/0op5oi24
+2025-06-21 17:28:17,333 INFO    MainThread:14040 [jupyter.py:save_history():509] saving 16 cells to _session_history.ipynb
+2025-06-21 17:28:17,344 INFO    MainThread:14040 [wandb_run.py:_config_callback():1358] config_cb ('_wandb', 'session_history') code\_session_history.ipynb None
+2025-06-21 17:28:17,413 INFO    MainThread:14040 [jupyter.py:_save_ipynb():416] looking for notebook: diabetes.ipynb
+2025-06-21 17:28:18,024 INFO    MainThread:14040 [wandb_run.py:_config_callback():1358] config_cb None None {'_wandb': {'code_path': 'source-diabetes_decision_tree-diabetes.ipynb'}}
+2025-06-21 17:28:18,035 INFO    MainThread:14040 [wandb_init.py:_jupyter_teardown():606] saved code and history: <Artifact source-diabetes_decision_tree-diabetes.ipynb>
+2025-06-21 17:28:18,035 INFO    MainThread:14040 [wandb_init.py:_jupyter_teardown():607] cleaning up jupyter logic
+2025-06-21 17:28:18,035 INFO    MainThread:14040 [wandb_run.py:_atexit_cleanup():2418] got exitcode: 0
+2025-06-21 17:28:18,040 INFO    MainThread:14040 [wandb_run.py:_restore():2400] restore
+2025-06-21 17:28:18,040 INFO    MainThread:14040 [wandb_run.py:_restore():2406] restore done
+2025-06-21 17:28:22,643 INFO    MainThread:14040 [wandb_run.py:_footer_history_summary_info():4000] rendering history
+2025-06-21 17:28:22,643 INFO    MainThread:14040 [wandb_run.py:_footer_history_summary_info():4032] rendering summary
+2025-06-21 17:28:22,643 INFO    MainThread:14040 [wandb_run.py:_footer_sync_info():3961] logging synced files

@@ -1,0 +1,29 @@
+{
+  "os":  "Windows-10-10.0.19045-SP0",
+  "python":  "CPython 3.10.0",
+  "startedAt":  "2025-06-22T08:29:38.072087Z",
+  "args":  [
+    "test_data.py",
+    "-v"
+  ],
+  "program":  "-m pytest.__main__",
+  "email":  "2409463@students.kcau.ac.ke",
+  "root":  "C:\\Users\\Janet",
+  "host":  "DESKTOP-G3ROKU4",
+  "executable":  "C:\\Program Files\\Python310\\python.exe",
+  "cpu_count":  2,
+  "cpu_count_logical":  2,
+  "disk":  {
+    "/":  {
+      "total":  "255502753792",
+      "used":  "83138195456"
+    }
+  },
+  "memory":  {
+    "total":  "4112760832"
+  },
+  "cpu":  {
+    "count":  2,
+    "countLogical":  2
+  }
+}
